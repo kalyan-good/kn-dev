@@ -1,0 +1,24 @@
+[03-Jan-2023 17:19:37 Asia/Kolkata] PHP Notice:  Undefined variable: game_name in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 21
+[03-Jan-2023 17:19:37 Asia/Kolkata] PHP Notice:  Undefined variable: game_name_hindi in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 26
+[03-Jan-2023 17:20:14 Asia/Kolkata] PHP Notice:  Undefined variable: game_name in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 22
+[03-Jan-2023 17:20:14 Asia/Kolkata] PHP Notice:  Undefined variable: game_name_hindi in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 27
+[03-Jan-2023 17:20:49 Asia/Kolkata] PHP Notice:  Undefined variable: game_name in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 22
+[03-Jan-2023 17:20:49 Asia/Kolkata] PHP Notice:  Undefined variable: game_name_hindi in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 27
+[03-Jan-2023 17:21:31 Asia/Kolkata] PHP Notice:  Undefined variable: game_name in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 22
+[03-Jan-2023 17:21:31 Asia/Kolkata] PHP Notice:  Undefined variable: game_name_hindi in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 27
+[03-Jan-2023 17:22:32 Asia/Kolkata] PHP Notice:  Undefined variable: email in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 5
+[03-Jan-2023 17:26:55 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 5
+[03-Jan-2023 17:30:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 6
+[03-Jan-2023 17:32:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 6
+[03-Jan-2023 17:36:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 6
+[03-Jan-2023 17:37:20 Asia/Kolkata] PHP Notice:  Undefined variable: date in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 6
+[03-Jan-2023 17:37:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 8
+[03-Jan-2023 17:40:07 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 7
+[03-Jan-2023 17:41:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/edit-game-name.php on line 7
+[03-Jan-2023 18:31:23 Asia/Kolkata] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 3
+[03-Jan-2023 18:31:23 Asia/Kolkata] PHP Notice:  Undefined variable: table in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 5
+[03-Jan-2023 18:31:23 Asia/Kolkata] PHP Notice:  Undefined variable: status_name in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 5
+[03-Jan-2023 18:31:23 Asia/Kolkata] PHP Notice:  Undefined variable: status in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 5
+[03-Jan-2023 18:31:23 Asia/Kolkata] PHP Notice:  Undefined variable: table_id in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 5
+[03-Jan-2023 18:31:23 Asia/Kolkata] PHP Notice:  Undefined variable: id in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 5
+[03-Jan-2023 18:31:59 Asia/Kolkata] PHP Notice:  Undefined variable: status in /home/gooddeed/public_html/projects/rk-matka/dashboard/edit/update-market-status.php on line 5
